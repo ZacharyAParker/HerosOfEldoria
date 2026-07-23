@@ -81,10 +81,13 @@ plays all of it completely straight, which is the joke.
 
 ### The peoples of Aeridor (races & subraces)
 
-Keeping the playable-race roster deliberately small, same as the pantheon. The peoples below
-exist; anything not on this list doesn't exist on Aeridor until I deliberately add it here first
-(same rule as the continents and the gods). The list and each people's history are set — the
-day-to-day cultural color is fair game to invent at the table.
+Changed my mind on keeping the roster small — everything below exists on Aeridor, and that much
+is set. What's deliberately loose is the lore: most of these entries are seeds, not straitjackets.
+When a player picks a race we shape the details together (homeland, culture, why they're here),
+and whatever we agree on gets written back into this doc, at which point it hardens into canon.
+The core nations are few and fixed; the peoples are many and everywhere.
+
+#### The core peoples (deep roots, fixed history)
 
 **Humans** — the overwhelming majority of Eldoria, all five regions (regional cultures live in
 the gazetteer). No subraces; culturally, the regions are the subraces.
@@ -143,13 +146,83 @@ quarry workers, caravan guards. The Vale, which bled for four years, has the lea
 them and the most of them, which is exactly as tense as it sounds. Half-orcs are mostly Vale-born
 and mostly wish everyone would change the subject.
 
-**Everyone else — the petitioner's clause.** Dragonborn, tieflings, aasimar, tabaxi, and all
-other ancestries are not established on Aeridor. If a player wants one, it takes a one-line
-origin worked out with me and written into this doc before session 1 — and it can't be "from
-across the sea" (continents rule, §1). Pre-approved hooks if someone asks: a bloodline marked by
-old Dominion pact-magic (tiefling-ish), a family touched by Brantifax or Solmara (aasimar-ish),
-or dragon-blooded sorcery in a human line, courtesy of an era when Vexthrax's kind were more...
-ambitious. One per campaign, tops. The roster stays small on purpose.
+#### The wandering and the scattered (everywhere, no capital, lore moldable)
+
+**Tabaxi — the Wandering Folk** — the exception to "everyone comes from somewhere": tabaxi have
+no nation, no homeland on any map, and no apparent interest in acquiring one. They move through
+every region of Aeridor in caravan-clans — traders, tinkers, storytellers, luck-dealers — and
+every region has a different story about where they came from, no two of which agree. Ask a
+tabaxi where their people are from and you'll get a new fable each time, delivered with total
+conviction; it's genuinely unclear whether even they know, and entirely clear that they enjoy
+the question. Their caravans hear everything — a slower, friendlier rumor network than the
+Ornithological Society, paid in stories instead of bird sightings. (Rumor: the feline-eyed
+"Madame Whiskers" of Silverhaven is a tabaxi, or the retired hero Felisi, or both, or neither.
+The Wandering Folk cheerfully feed all four versions.)
+
+**Asura** — small, brilliant, subterranean inventor-mages, surfaced within living memory from
+the Undervaults: gallery-cities in the deep rock beyond even Khaz-Torim's mine-heads. No formal
+government — they organize into small task-forces called krewes, assembled per project and
+dissolved per grudge. Known for magitech constructs and golemancy; they value cleverness above
+literally everything else, and consider "adorable" a slur and "dangerous" a compliment. The
+dwarves have acknowledged them for centuries in a Concordance appendix ("the Neighbors Below")
+and cite the relevant clauses whenever asked to explain them, which explains nothing. The
+Licensing Act has no category for a golem — every asuran construct on the surface is currently
+insured as a "wagon (self-moving)," a clerical time bomb I fully intend to detonate at the
+table. Exactly when and why they surfaced is moldable — pick it with the player, write it in
+here. Full 5e mechanics: HOMEBREW_ASURA.md in this repo.
+
+**Dragonborn** — dragon-blooded folk in small, proud, scattered enclaves: remnants of an era
+when Vexthrax's kind were numerous and ambitious. Rare enough that most Eldorians have met
+exactly one, and currently — thanks to the fad — wildly fashionable. Vexthrax's opinion of
+dragonborn ("watered-down") is loud, unsolicited, and delivered from knee height.
+
+**Tieflings** — bloodlines marked generations ago by old pact-magic; most trace, if anyone dares
+trace them, to Dominion-era contracts that left more than ink on the signers' descendants. The
+Court of Murmurs could in principle name the exact contract behind every tiefling family on
+Aeridor. It declines to. Rural Eldoria hangs charms against them; Silverhaven invites them to
+parties (see the fad).
+
+**Aasimar** — god-touched lines. Solmara's are stately, luminous, and get invited to things;
+Brantifax's are walking coin-flips and get blamed for things. Neither church officially
+acknowledges them. Both quietly keep lists.
+
+**Goliaths** — high-peak folk of the ranges between the Vale and Khaz-Torim: herders, guides,
+avalanche-listeners, and the only people the dwarves subcontract for above-the-snowline work
+(Concordance sub-clause, naturally).
+
+**Firbolgs** — deep-forest folk of the Whisperwood margins; one of the very few peoples the
+elves tolerate inside the tree-line without a Leaf-Letter. Neither the elves nor the firbolgs
+have ever explained why, and both change the subject identically.
+
+**Kenku** — dockland folk of the Southern Coast ports: clerks, mimics, message-runners,
+chantey-keepers. The Ornithological Society's file on them is a standing diplomatic incident
+("members or specimens?" — an argument that has ended two annual dinners).
+
+**Lizardfolk & tortles** — the coast's other locals: lizardfolk in the marsh-coves and river
+mouths, tortles on the slow trade-lanes. Mother Deep's clergy consider both better congregants
+than humans — they pay on time and never ask for refunds.
+
+**Kobolds** — small clans in the Peaks and the hill country. One clan matters: the last true
+believers that the drake in Oakhaven really is Vexthrax the Verdant Scourge. He finds their
+reverence deeply gratifying and their kleptomania professionally threatening; THE HOARD has a
+"no more than two kobolds at a time" sign, which they treat as scripture.
+
+**Genasi** — elemental-touched bloodlines, rarest of all. Storm- and water-touched lines on the
+Southern Coast get attributed to Mother Deep's transactional side ("someone's great-grandmother
+paid a strange price"). The other elements' stories are unwritten — moldable.
+
+**Warforged (provisional)** — not a people yet: a handful of asuran masterwork constructs have
+woken up, and their maker-krewes are split between pride and warranty panic. Whether this is a
+new race or an ongoing incident is a question I'll answer deliberately if a player wants to play
+one — and then write in here.
+
+#### The moldable-lore rule (replaces the old petitioner's clause)
+
+Everything above exists; the loose details are negotiable at session 0 and harden into canon
+once written back into this doc. Three hard limits survive: no new elven bloodlines (the
+two-caste structure is closed), nobody is "from across the sea" (§1) — every people has Aeridor
+roots, however vague — and an ancestry not listed at all still needs a sit-down with me before
+session 1, not a table improvisation.
 
 ### Prejudices & tensions (the honest map)
 
@@ -168,6 +241,11 @@ The causes here are set; how they get expressed day-to-day is flexible.
 - **Dwarves — the exception that proves everything.** Nobody hates the dwarves. Six hundred and
   fifty years of treaty, trade, and showing up on time. Being rude to a dwarf mostly makes you
   look bad, a fact dwarven merchants deploy with surgical precision.
+- **The scattered peoples — fashionably exotic.** The fad has done something strange to
+  prejudice: being visibly unusual is currently an asset. A dragonborn, tabaxi, or asura
+  adventurer draws autograph-seekers and outfitter sponsorships before they draw suspicion. The
+  old peoples, who earned their acceptance the slow way, find this mildly insulting. Whether the
+  fashion outlives the fad is an open question — and good material.
 - Table note: prejudice here plays by the same rule as everything else — the world plays it
   straight and the absurdity does the work. It's material for backstories and social friction,
   never misery tourism; the comedy tone governs.
@@ -433,3 +511,11 @@ elves, the old rulers; wood elves = the border-folk), plus half-elves, mountain 
 (hill) dwarves, halflings, gnomes, goblins post-Red Tusk, orcs and half-orcs, and a petitioner's
 clause for everything else — no drow, eladrin, or sea elves on Aeridor. Added the prejudices &
 tensions map to go with it, and a note in §5 that the old Seven's races were never locked.
+
+Also 7/23/26, even later — opened the roster all the way up. Everything exists now, lore
+moldable: tabaxi as the Wandering Folk (no nation, everywhere), the asura from my homebrew doc
+(Undervaults, krewes, magitech — mechanics in HOMEBREW_ASURA.md), dragonborn, tieflings,
+aasimar, goliaths, firbolgs, kenku, lizardfolk, tortles, kobolds (Vexthrax's one devout clan),
+genasi, and provisional warforged. The petitioner's clause got replaced with the moldable-lore
+rule; the elf castes and the continents rule stay closed. Added the "fashionably exotic" bit to
+the prejudices map.
