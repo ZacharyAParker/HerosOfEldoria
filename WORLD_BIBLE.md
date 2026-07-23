@@ -79,13 +79,98 @@ plays all of it completely straight, which is the joke.
 | The Northern Vale (north) | Pine forests, cold rivers, war scars, stern folk | Borders dwarven Khaz-Torim |
 | The Southern Coast (south) | Cliffs, coves, port cities, sea-trade culture | Corvessa, Gullwatch, Lantern Bay (named 7/21, full write-ups in the gazetteer doc) |
 
-### Other peoples
+### The peoples of Aeridor (races & subraces)
 
-- **Dwarves of Khaz-Torim** — mountain kingdom to the north, allies and trade partners since the
-  Great Concordance (1100 KE).
-- **Elves of the Whisperwood** — ancient, insular, used to run humanity (see history below). They
-  remember being on top. Humans mostly don't. Awkward.
-- **Orc hordes of the north** — beaten fifty years ago in the War of the Broken Spear, quiet since.
+Keeping the playable-race roster deliberately small, same as the pantheon. The peoples below
+exist; anything not on this list doesn't exist on Aeridor until I deliberately add it here first
+(same rule as the continents and the gods). The list and each people's history are set — the
+day-to-day cultural color is fair game to invent at the table.
+
+**Humans** — the overwhelming majority of Eldoria, all five regions (regional cultures live in
+the gazetteer). No subraces; culturally, the regions are the subraces.
+
+**Elves of the Whisperwood** — one people, two castes. The "subraces" aren't bloodlines, they're
+what the fall of the Dominion did to a single nation fifteen centuries ago.
+
+- **Court elves** (high elves, mechanically) — descendants of the Dominion's ruling caste: the
+  whisperers, contract-writers, and ward-weavers who ran humanity through "whispers, gifts, and
+  contracts" (§3) and later tutored the Luminar golden age. After the Great Uprising they pulled
+  back into the Deep Whisperwood and turned inward — the Court of Murmurs, the Leaf-Letter visas,
+  the archives of every promise ever made (gazetteer §6). They didn't stop being rulers, they
+  just lost the subjects. A Court elf seen outside the forest is an event.
+- **Wood elves** — the same folk who, after the fall, went into the forest instead of into the
+  archive: the wardens, the Listening Posts, the border-watchers. The only elves most humans have
+  ever actually met, and they have opinions about humans the Court considers unbecomingly
+  specific.
+- The caste line is culture, not blood. An elf can cross it, and it's considered faintly
+  scandalous in both directions — the Court thinks the wood-kin went feral, the wood-kin think
+  the Court is embalming itself.
+- No drow, eladrin, or sea elves on Aeridor. Adding an elven bloodline is a sit-down decision,
+  never a table improvisation.
+- **Half-elves** — exist, mostly descended from Dominion-era vassalage or Luminar-era patronage
+  liaisons. Humans find them charming. The Court finds them paperwork — every half-elf birth
+  technically triggers an inheritance-clause review the Court of Murmurs is, fifteen centuries
+  on, still processing.
+
+**Dwarves of Khaz-Torim** — one kingdom, allies since the Great Concordance (1100 KE), two
+cultures since:
+
+- **Mountain dwarves** — Khaz-Torim proper: forge-vaults, terraced cities, law cited by clause
+  number (gazetteer §7).
+- **Concordance dwarves** (hill dwarves, mechanically) — the expatriate treaty-families who moved
+  south after 1100 to run the trade: six centuries rooted in the Vale and Silverhaven, dual
+  citizens, fiercely proud of both homes. The mountain considers them "abroad." They consider the
+  mountain "the old office."
+
+**Halflings** — Crownlands natives since before the Kingdom Era; nobody conquered them because
+nobody noticed them in time. Farming families, river-barge clans, and an outsized share of
+Eldoria's innkeepers. Lightfoot vs. stout is family-line flavor, not a cultural divide.
+
+**Gnomes** — small, urban, respectable population: clockmakers, alchemists' suppliers, archivists
+(rock gnomes mostly; a few forest-gnome families on the Whisperwood margins stay politely vague
+about whether they answer to the Court). The Licensing Act's actuarial tables were drafted by a
+gnome. It shows.
+
+**Goblins** — post-1751, a diaspora people. When Mog'Thul fell and the Red Tusk scattered (§4),
+the survivors went legit: couriers (Taylor's Runners), laborers, tradesfolk, one theatrical
+costumer. Playable and increasingly common in the Reaches; regarded with vague suspicion and
+tipped generously, often in the same afternoon. Hobgoblins and bugbears exist but are rare — and
+Mog'Thul made "bugbear" a slur that honest bugbears have been carrying for three years.
+
+**Orcs & half-orcs** — the hordes of the north were broken fifty years ago (§3) and have been
+quiet since. In the decades after, some orcs settled south of the border — veterans' descendants,
+quarry workers, caravan guards. The Vale, which bled for four years, has the least patience for
+them and the most of them, which is exactly as tense as it sounds. Half-orcs are mostly Vale-born
+and mostly wish everyone would change the subject.
+
+**Everyone else — the petitioner's clause.** Dragonborn, tieflings, aasimar, tabaxi, and all
+other ancestries are not established on Aeridor. If a player wants one, it takes a one-line
+origin worked out with me and written into this doc before session 1 — and it can't be "from
+across the sea" (continents rule, §1). Pre-approved hooks if someone asks: a bloodline marked by
+old Dominion pact-magic (tiefling-ish), a family touched by Brantifax or Solmara (aasimar-ish),
+or dragon-blooded sorcery in a human line, courtesy of an era when Vexthrax's kind were more...
+ambitious. One per campaign, tops. The roster stays small on purpose.
+
+### Prejudices & tensions (the honest map)
+
+The causes here are set; how they get expressed day-to-day is flexible.
+
+- **Humans ↔ elves — the asymmetric grudge.** The elves ruled humanity for a century and remember
+  it as recent events; humans broke that rule 1,500 years ago and have mostly forgotten it
+  happened. So human anti-elf prejudice is casual and petty (Ollie's "NO ELVES" sign, and its
+  smaller amendment), while elven condescension is the quiet patience of former masters. Neither
+  side calls it prejudice. Both are certain the other started it.
+- **Humans ↔ orcs — the fresh wound.** The Broken Spear ended within living memory. Anti-orc
+  sentiment runs strongest exactly where the orc population is largest (the Vale) and mildest in
+  the south, where the war is a story. Time is healing this at the speed of one funeral at a time.
+- **Goblins — the complicated middle.** Officially "dealt with" in 1751; actually integrating,
+  visibly, one delivery at a time. Suspicion and affection coexist without embarrassment.
+- **Dwarves — the exception that proves everything.** Nobody hates the dwarves. Six hundred and
+  fifty years of treaty, trade, and showing up on time. Being rude to a dwarf mostly makes you
+  look bad, a fact dwarven merchants deploy with surgical precision.
+- Table note: prejudice here plays by the same rule as everything else — the world plays it
+  straight and the absurdity does the work. It's material for backstories and social friction,
+  never misery tourism; the comedy tone governs.
 
 ## 3. History (canon timeline)
 
@@ -237,7 +322,8 @@ party will never be famous no matter what they pull off. That's the point.
 
 Cameo-ready epilogues, flexible on detail, but the fates themselves are set. If anyone wants their
 old PC back, I need to upgrade them from cameo to full NPC (or retire them properly) before
-session 1 and update this doc.
+session 1 and update this doc. (The old Seven's races were never pinned down anywhere official —
+if a detail below ever needs one, go with what the table remembers and write it in here.)
 
 - **Felisi** — took the money and vanished. Rumor has it the masked proprietor "Madame Whiskers"
   of a Silverhaven gambling den is charismatic, feline-eyed, always paid in advance. Unconfirmed.
@@ -340,3 +426,10 @@ info for rare-bird sightings, but their reports have to be decoded out of birdin
 Last touched 7/23/26 — fleshed out the adventuring fad and the ballad canon a lot more, added the
 five-locks bit for why the lie holds up, and slotted the 1752 Licensing Act into the timeline.
 Nothing locked actually changed, just filled in more of the why.
+
+Also 7/23/26, later — defined the actual race roster. "Other peoples" is now "The peoples of
+Aeridor": elves are one people split into two castes by the Dominion's fall (Court elves = high
+elves, the old rulers; wood elves = the border-folk), plus half-elves, mountain and Concordance
+(hill) dwarves, halflings, gnomes, goblins post-Red Tusk, orcs and half-orcs, and a petitioner's
+clause for everything else — no drow, eladrin, or sea elves on Aeridor. Added the prejudices &
+tensions map to go with it, and a note in §5 that the old Seven's races were never locked.
