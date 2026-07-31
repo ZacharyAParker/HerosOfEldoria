@@ -511,7 +511,7 @@ child, born of an elf mother she never knew, forced to live her life in a societ
 twisted her. Short of stature and unimpressive in physique, she has mastered manipulating people
 and outwitting them with a very logical way of thinking. In her childhood it was quickly
 discovered that she had a gift for healing, and she was taken in by the priests of the kingdom
-and taught the ways of god. Elane was not impressed by the religion but was unable to do
+and taught the ways of the gods. Elane was not impressed by the religion but was unable to do
 anything about it because of her place as a noble. She's come to R.O.M.T. looking for a way out —
 to get away from the church while somehow keeping her good connections in the kingdom.
 
