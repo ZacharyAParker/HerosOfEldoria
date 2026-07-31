@@ -499,6 +499,59 @@ technically unlicensed themselves.
 Bird-watchers. Also, accidentally, the best intelligence network in eastern Eldoria. They'll trade
 info for rare-bird sightings, but their reports have to be decoded out of birding jargon first.
 
+## 9. The new party (player-character backstories)
+
+Rough backstories for the current campaign's PCs, written up as players hand them in. Same rule as
+everything else in this doc: once it's here it's canon, and I reconcile it against the rest before
+it hardens.
+
+### Elane von Aroliden (Coypu) — Half-Elf Cleric
+Elane is the daughter of Kurt von Aroliden, a high-class noble in Eldoria. A bastard half-elf
+child, born of an elf mother she never knew, forced to live her life in a society she hates — it
+twisted her. Short of stature and unimpressive in physique, she has mastered manipulating people
+and outwitting them with a very logical way of thinking. In her childhood it was quickly
+discovered that she had a gift for healing, and she was taken in by the priests of the kingdom
+and taught the ways of god. Elane was not impressed by the religion but was unable to do
+anything about it because of her place as a noble. She's come to R.O.M.T. looking for a way out —
+to get away from the church while somehow keeping her good connections in the kingdom.
+
+### Lira Starwhinny (Chelsie) — Goliath Barbarian
+Lira Starwhinny was born among the Starwhinny clan, a proud family of Goliath herders and
+avalanche-listeners who live in the high peaks between the Northern Vale and Khaz-Torim. Her
+people believe the mountains are sacred, that the wind carries the voices of their ancestors,
+and that no creature should ever be chained by another's greed. From a young age, Lira was
+different — while others trained with weapons and hunted the high passes, she danced around
+the fires, sang ancient clan songs, and told stories of heroes who fought against impossible
+odds. But Lira had another gift: the storm inside her. When her family or clan was threatened,
+the gentle storyteller disappeared, replaced by a force of nature. One year, a wealthy warlord
+invaded her clan's territory, seeking to press the Starwhinny herders into servitude. The
+invaders burned their seasonal camps and destroyed their sacred cairns. Lira fought harder than
+anyone expected — she remembers little of that night, only the heartbeat, the screams, and a
+rage so powerful it felt like lightning. When the dust settled, the invaders had fled. But Lira
+knew she couldn't stay. She left her homeland carrying only her weapon, her clan markings, and
+the songs of her ancestors. She now travels searching for worthy battles and protecting the
+helpless. R.O.M.T. is the only outfit that lets her hit real problems.
+
+### Spatiodynamicist Vlodd (Caelan) — Gnome Artificer (Battle Smith)
+Vlodd is an asura researcher from the Undervaults, obsessed with rift and interdimensional
+theory. Like most asura, he measures worth by genius, and the genius he admires most is Blish —
+a name synonymous with breakthroughs in dimensional science among the Undervault krewes. Vlodd
+built his life's work on Blish's research, and when he finally completed his own golem, he
+named it Blish in tribute. Then his rift experiment went catastrophically wrong — instead of a
+controlled portal between two points in the Undervaults, it tore open a breach into an entirely
+separate dimension. Vlodd and his golem B.L.I.S.H. (Binary Lattice Interdimensional Shunt
+Horizon) were pulled through and flung into Eldoria. His golem's core mechanisms were fried in
+transit, leaving only its combat subsystems active. He has no idea if the rift is still open or
+whether he can get home. R.O.M.T. hired him because a gnome who literally fell out of a hole in
+reality is exactly the kind of miscellaneous threat they handle.
+
+### McClanky (Cam) — Halfling Artificer (Battle Smith)
+McClanky struggles to make friends, so he literally makes them. A halfling tinkerer from the
+Crownlands, he builds companions because building trust is harder than building clockwork. His
+adventuring-license application was rejected (the Licensing Act is merciless), but R.O.M.T. hired
+him because they legally outrank licenses and can't afford anyone pickier. He comes with a
+steel defender — the one friend who never disappoints him, because he built it not to.
+
 ---
 
 Last touched 7/23/26 — fleshed out the adventuring fad and the ballad canon a lot more, added the
@@ -519,3 +572,20 @@ aasimar, goliaths, firbolgs, kenku, lizardfolk, tortles, kobolds (Vexthrax's one
 genasi, and provisional warforged. The petitioner's clause got replaced with the moldable-lore
 rule; the elf castes and the continents rule stay closed. Added the "fashionably exotic" bit to
 the prejudices map.
+
+Also 7/23/26, later still — added §9 for player-character backstories and dropped in Coypu's
+rough one (Court elf healing cleric: a past-age death-cheater reborn by the Quiet Warden's revenge,
+memories intact, running from her high-elf family to break a forced divine pact). Matched "the
+Warden" to the Quiet Warden (§6) and "high elf" to Court elf. Left the party's first meetup spot as
+a marked TBD — didn't invent one; Silverhaven and Oakhaven are the standing candidates. Kept the
+male-hero → female-elf rebirth flip.
+
+Also 7/31/26 (b) — full §9 rewrite. All four PC backstories now recorded. Elane's backstory
+replaced (Quiet Warden retired, DDB sheet is authority). Lira, Vlodd, and McClanky added.
+Lira recast from plains horsefolk to mountain herders to fit Aeridor. Vlodd recast from Guild
+Wars 2 lore to Aethel asura (interdimensional castaway preserved). McClanky: "struggles to
+make friends so he literally makes them." All four R.O.M.T. hooks filled.
+
+Also 7/31/26 — updated race from Court elf to Half-Elf (character sheet is the authority). Renamed
+the §9 entry from "Coypu" to "Elane von Aroliden (Coypu)" — Coypu is the player, not the character.
+Resolved first-meetup spot to Silverhaven (R.O.M.T. stable).
