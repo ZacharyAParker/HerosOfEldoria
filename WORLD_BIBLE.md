@@ -523,14 +523,15 @@ and that no creature should ever be chained by another's greed. From a young age
 different — while others trained with weapons and hunted the high passes, she danced around
 the fires, sang ancient clan songs, and told stories of heroes who fought against impossible
 odds. But Lira had another gift: the storm inside her. When her family or clan was threatened,
-the gentle storyteller disappeared, replaced by a force of nature. One year, a wealthy warlord
-invaded her clan's territory, seeking to press the Starwhinny herders into servitude. The
-invaders burned their seasonal camps and destroyed their sacred cairns. Lira fought harder than
-anyone expected — she remembers little of that night, only the heartbeat, the screams, and a
-rage so powerful it felt like lightning. When the dust settled, the invaders had fled. But Lira
-knew she couldn't stay. She left her homeland carrying only her weapon, her clan markings, and
-the songs of her ancestors. She now travels searching for worthy battles and protecting the
-helpless. R.O.M.T. is the only outfit that lets her hit real problems.
+the gentle storyteller disappeared, replaced by a force of nature. One year, a Northern Vale
+border lord — one of the garrison commanders who never unclenched after the War of the Broken
+Spear — invaded her clan's territory, seeking to press the Starwhinny herders into servitude as
+frontier scouts. The invaders burned their seasonal camps and destroyed their sacred cairns.
+Lira fought harder than anyone expected — she remembers little of that night, only the
+heartbeat, the screams, and a rage so powerful it felt like lightning. When the dust settled,
+the invaders had fled. But Lira knew she couldn't stay. She left her homeland carrying only her
+weapon, her clan markings, and the songs of her ancestors. She now travels searching for worthy
+battles and protecting the helpless. R.O.M.T. is the only outfit that lets her hit real problems.
 
 ### Spatiodynamicist Vlodd (Caelan) — Gnome Artificer (Battle Smith)
 Vlodd is an asura researcher from the Undervaults, obsessed with rift and interdimensional
